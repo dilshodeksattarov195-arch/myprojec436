@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssave",
+        "uuid": 756460,
+        "checksum": "defjtd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
